@@ -1,2 +1,2 @@
 # demos-datasets
-Holds data-sets to mlrun demos, released and versioned
+Holds datasets for mlrun demos, released and versioned
